@@ -91,3 +91,5 @@ Translated with DeepL.com (free version)
 
 The results of the project demonstrate the effectiveness of the DDPG algorithm for training an agent in complex environments with continuous actions. The use of neural networks for policy and criticism allowed us to achieve a high level of adaptation of the agent to new environmental conditions.
 Further improvements may include optimizing hyperparameters, extending the model architecture, or implementing additional mechanisms such as prioritized repetition experience or more complex reward functions.
+
+This project was implemented in the winter semester of 2024 in the subject of AI (Artificial Intelligence). The project was carried out by Dmytro Skrypchenko, Pavlo Yarovyi, Nikita Dakhno, Daria Rezvin, Ivan Hreshkovsky
