@@ -79,7 +79,6 @@ new_distance == old_distance:
   <img src="img/Graph3.jpg" alt="Robot Action 1" style="width: 50%; max-width: 300px; border: 2px solid #ccc; border-radius: 8px;">
 </div>
 
-Translated with DeepL.com (free version)
 
 ## The graph shows the average rewards during learning for every 250 episodes
 
